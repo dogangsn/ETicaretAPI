@@ -1,0 +1,17 @@
+D:\Dogan\Project\ETicaretUygulaması\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Persistence.deps.json
+D:\Dogan\Project\ETicaretUygulaması\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Persistence.dll
+D:\Dogan\Project\ETicaretUygulaması\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net6.0\ref\ETicaretAPI.Persistence.dll
+D:\Dogan\Project\ETicaretUygulaması\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Persistence.pdb
+D:\Dogan\Project\ETicaretUygulaması\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Application.dll
+D:\Dogan\Project\ETicaretUygulaması\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Domain.dll
+D:\Dogan\Project\ETicaretUygulaması\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Application.pdb
+D:\Dogan\Project\ETicaretUygulaması\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Domain.pdb
+D:\Dogan\Project\ETicaretUygulaması\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.csproj.AssemblyReference.cache
+D:\Dogan\Project\ETicaretUygulaması\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dogan\Project\ETicaretUygulaması\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.AssemblyInfoInputs.cache
+D:\Dogan\Project\ETicaretUygulaması\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.AssemblyInfo.cs
+D:\Dogan\Project\ETicaretUygulaması\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.csproj.CoreCompileInputs.cache
+D:\Dogan\Project\ETicaretUygulaması\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.csproj.CopyComplete
+D:\Dogan\Project\ETicaretUygulaması\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.dll
+D:\Dogan\Project\ETicaretUygulaması\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ref\ETicaretAPI.Persistence.dll
+D:\Dogan\Project\ETicaretUygulaması\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.pdb

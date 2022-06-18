@@ -1,0 +1,11 @@
+D:\Dogan\Project\ETicaretUygulaması\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\bin\Debug\net6.0\ETicaretAPI.Infrastructure.deps.json
+D:\Dogan\Project\ETicaretUygulaması\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\bin\Debug\net6.0\ETicaretAPI.Infrastructure.dll
+D:\Dogan\Project\ETicaretUygulaması\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\bin\Debug\net6.0\ref\ETicaretAPI.Infrastructure.dll
+D:\Dogan\Project\ETicaretUygulaması\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\bin\Debug\net6.0\ETicaretAPI.Infrastructure.pdb
+D:\Dogan\Project\ETicaretUygulaması\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net6.0\ETicaretAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dogan\Project\ETicaretUygulaması\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net6.0\ETicaretAPI.Infrastructure.AssemblyInfoInputs.cache
+D:\Dogan\Project\ETicaretUygulaması\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net6.0\ETicaretAPI.Infrastructure.AssemblyInfo.cs
+D:\Dogan\Project\ETicaretUygulaması\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net6.0\ETicaretAPI.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Dogan\Project\ETicaretUygulaması\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net6.0\ETicaretAPI.Infrastructure.dll
+D:\Dogan\Project\ETicaretUygulaması\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net6.0\ref\ETicaretAPI.Infrastructure.dll
+D:\Dogan\Project\ETicaretUygulaması\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net6.0\ETicaretAPI.Infrastructure.pdb
