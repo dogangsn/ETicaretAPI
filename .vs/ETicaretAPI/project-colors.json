@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2df7013d-60ca-4fca-a77f-6146f245f03e": {
+      "ProjectGuid": "2df7013d-60ca-4fca-a77f-6146f245f03e",
+      "DisplayName": "ETicaretAPI.Persistence",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
