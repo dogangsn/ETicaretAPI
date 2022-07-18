@@ -5,7 +5,32 @@
       "ProjectGuid": "2df7013d-60ca-4fca-a77f-6146f245f03e",
       "DisplayName": "ETicaretAPI.Persistence",
       "ColorIndex": 0
+    },
+    "ffdfdc71-86c7-4049-ae15-c51a9c736456": {
+      "ProjectGuid": "ffdfdc71-86c7-4049-ae15-c51a9c736456",
+      "DisplayName": "ETicaretAPI.Infrastructure",
+      "ColorIndex": 1
+    },
+    "7c8a300c-ba62-4d17-89db-450a5bb73d30": {
+      "ProjectGuid": "7c8a300c-ba62-4d17-89db-450a5bb73d30",
+      "DisplayName": "ETicaretAPI.Application",
+      "ColorIndex": 2
+    },
+    "7998622a-d154-41e6-86f8-c3389c1aa8fc": {
+      "ProjectGuid": "7998622a-d154-41e6-86f8-c3389c1aa8fc",
+      "DisplayName": "ETicaretAPI.Domain",
+      "ColorIndex": 3
+    },
+    "d88aaf86-dfb8-4943-96d9-4993dd5feffa": {
+      "ProjectGuid": "d88aaf86-dfb8-4943-96d9-4993dd5feffa",
+      "DisplayName": "ETicaretAPI.API",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 5
 }
