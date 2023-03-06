@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "0LrmyIAJZ3vSaErAI5EpAVzlaEilXVd2+4/ofD8iDcui5uz9rV46SdW5nxAfo/V846waLao8W2Lj8BHG5FKFvQ==",
+  "dgSpecHash": "u7UNKiQjcFZHOKMbcPZEqtoVqq+5ZxOGd2WVS2YALbzkaPCMqZEtzuVoroPDa1WBVwcMBxnyaxnEtSBXoMLuHQ==",
   "success": true,
-  "projectFilePath": "D:\\Dogan\\Project\\ETicaretUygulaması\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Private\\Project\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dogan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\dogan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\dogan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512"
+  ],
   "logs": []
 }
