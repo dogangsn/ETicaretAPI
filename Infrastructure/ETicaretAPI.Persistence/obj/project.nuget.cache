@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Fjpz1dh1FyZ3i9ZPjqO7WfYyJb8rK3olhSgG3J6PxvgI3BgPmJ8t+8Y/y/F2n+aclbR7zSIu3wn4yqL0EPsiVQ==",
+  "dgSpecHash": "nYyLZcg2iVzp0PF0MKLXW65QDtKcaELH9vJ/u1QmNfQQg+UWZWy5nXjE746WQOzVbw3QKCi+BrmrO/ErBR0jFg==",
   "success": true,
   "projectFilePath": "D:\\Private\\Project\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\ETicaretAPI.Persistence.csproj",
   "expectedPackageFiles": [
@@ -29,10 +29,7 @@
     "C:\\Users\\dogan\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\dogan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\dogan\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
-    "C:\\Users\\dogan\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
-    "C:\\Users\\dogan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
-    "C:\\Users\\dogan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
-    "C:\\Users\\dogan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512"
+    "C:\\Users\\dogan\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
